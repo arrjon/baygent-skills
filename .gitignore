@@ -33,6 +33,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+.idea
 
 # PyInstaller
 *.manifest
@@ -95,7 +96,7 @@ ipython_config.py
 # Pipfile.lock
 
 # UV
-# uv.lock
+uv.lock
 
 # poetry
 # poetry.lock
